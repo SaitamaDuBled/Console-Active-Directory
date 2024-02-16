@@ -50,7 +50,7 @@ This script manipulates sensitive elements of your Active Directory infrastructu
 
 ## Author 🧑‍💻
 
-This script was developed by [Your Name or Your Company](https://your-website.com).
+This script was developed by SaitamaDuBled.
 
 ---
 
